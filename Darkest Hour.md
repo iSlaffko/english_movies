@@ -227,8 +227,9 @@ Vocabulary:
 
 * morphine sulphate - морфина сульфат (обезболивающее и успокоительное средство)
 * to trigger - инициировать 
-* the House (of Commons) - 
-* the Outer Cabinet - 
+* the House (of Commons) - Палата общин (нижняя палата английского парламента)
+* the Outer Cabinet = the Departments of Agriculture, Commerce, Interior, and Labor - Кабинет министров Великобритании
+* the Inner Cabinet = the Departments of Justice, Treasury, State, and Defense. The Outer Cabinet - Кабинет министров Великобритании
 * self-propelled - самоходный 
 * 30 - 100 feet - от 9 до 30 метров 
 * particulars - здесь: соотвествующие (требованиям) суда 
@@ -273,3 +274,52 @@ Vocabulary:
 * to sue for peace - просить о мире, заключить мир 
 * unvarnished - без прикрас 
 * to cope - справляться, управляться
+
+# 1:36:00 - 1:45:20
+Vocabulary:
+
+* Westminster - станция мето Весминстер возле здания английского парламента
+* The District Line - линия Дистрикт (одна из основных веток лондонского метро)
+* signor - синьор 
+* Mussolini - Бенито Муссолини (1883-1945, дуче, т.е. вождь, один из основателей итальянского фашизма; премьер-министр Италии в 1922-1943гг.)
+* to secure a settlement - обеспечить соглашение
+* to safeguard - обеспеить, сохранить, охранять
+* durable - прочный
+* to undertake - провести, осуществить
+* bricklayer - каменщик
+* how are you bearing up? - как вы держитесь? 
+* lost cause - гиблое дело
+* too right - совершенно верно
+* Piccadilly - Пикадилли (одна из самых оживленных улиц в историческом центре Лондона; также - площадь Пикадилли) 
+* to blub - рыдать 
+
+# 1:45:20 - 1:52:30 
+Vocabulary:
+
+* to lay out a willingness - выразить готовность 
+* lackey - лакей, холоп
+* idle to think - отказываться думать 
+* speaking for many - говоря от лица многих, выражая общее мнение
+* Oswald Mosley - Освальд Мосли (1896-1980, британский политик, основатель британского союза фашистов) 
+* to parlay good terms - делать ставку на приемлимые условия 
+* redoubt - редут 
+* Buckingham Palace - Букингемский дворец (лондонская резиденция британских монархов) 
+* Windsor - Виндзорский замок (летняя резиденция английских королей)
+* to drape - укрыть, накрыть
+* to contemplate - предусматривать 
+* to falter - колебаться, проявлять нерешительность 
+* to hurl - швырнуть, бросить 
+* it falls to me - мне выпало
+* sentiments - чувства, настроения 
+
+# 1:52:30 - 1:59:45
+Vocabulary:
+
+* to boast - мнить, хвастаться, бахвалиться, 
+* to ride out - переждать 
+* menace - угроза, опасность
+* resolve - решимость 
+* to the utmost - в высшей (максимальной) степени
+* tract - участок, урочище
+* to flag and fail - признать поражение (производное от flag nor fail - не сдаваться / не выбрасывать белый флаг)
+* to subjugate - покорить, поработить
