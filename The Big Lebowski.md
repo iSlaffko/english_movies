@@ -151,3 +151,103 @@ Vocabulary:
 * sheesh - черт, блин
 * handicap zone - парковка для инвалидов 
 * to tow (a car) - эвакуировать, буксировать (машину)
+
+# 40:37 - 47:47 
+Vocabulary:
+
+* rust - ржавчина
+* coloration - окрас
+* a tape deck - магнитофон, магнитола (кассетные)
+* Creedence tapes - кассеты с записями группы Creedence Clearwater Revival 
+* ay dame adajo (испанский) - опустите меня вниз
+* vaginal - вагинальный 
+* to bat an eye - моргнуть глазом
+* dick / rod / johnson - член, хер
+* to get down to cases - заняться делами
+* it stinks to high heaven - дело дурно пахнет, от этого дела несет за версту
+* coitus - соитие, совокупление
+* zesty - пикантный 
+* satyriasis - сатириаз (гиперсексуальность, повышенное половое влечение у мужчин)
+* nymphomania -  нимфомания (гиперсексуальность, повышенное половое влечение у женщин)
+* compulsively - навязчиво, маниакально
+* nympho - нимфоманка
+* Kahlua - Калуа (мексиканский кофейный ликер)
+* ludicrous - абсурдный 
+* fatuous - глупый, бессмысленный 
+* to bang (slang) - долбить, трахать
+* parlance - жаргон, манера разговаривать
+* trustee - попечитель, доверенное лицо
+* youngster - подросток
+* abduction - похищение 
+* preposterous - нелепый
+* fornicator - прелюбодей, блудник
+* to take someone for a ride - обмануть (прокатить) кого-то
+* to take someone for the proverbial ride - облапошить, объегорить, оболванить кого-то
+* embezzlement - хищение, растрата
+* to the tune of - в размере, на сумму
+* bones (slang = dollars) - бабло
+* or clams (slang = dollars) - капуста
+* thorough - внимательный, основательный 
+
+# 47:47 - 52:25 
+Vocabulary:
+
+* to bust one's balls - выкручивать яйца, действовать на нервы, доставать 
+* agates - агаты (testicles - яйца) 
+* friggin’ (frigging = freacking) = долбанный, хренов и пр.
+* she’s always busting’ my friggin’ agates - она меня все время доебывает 
+* rash - сыпь 
+* down in the dumps - в унынии, как в воду опущенный
+* beverage - напиток
+* frantically - отчаянно, неистово
+* nitwit - олух
+* editorial - редакционный (здесь: “я" измененное на “мы”)
+* to blather - болтать 
+* to feed the monkey - потакать желаниям 
+* this might bump me into a higher tax - для меня это может означать начисление более высоких налогов
+* charge - ответственность 
+* unrepentantly - не раскаявшись 
+* tenfold - десятикратно 
+* to abide - терпеть, выносить 
+
+# 52:25 - 56:00
+Vocabulary:
+
+* nail polish - лак для ногтей
+* the Supreme Court - Верховный суд США (высшая судебная инстанция США)
+* to reject - отклонять, отвергать
+* restraint - ограничение 
+* First Amendment - Первая поправка к Конституции США (гарантирует свободу вероисповедания, свободу слова, прессы, собраний и пр., ратифицирована в 1791 году) 
+* muck - грязь, навоз, дерьмо
+* duty officer - дежурный офицер
+* LAPD (Los Angeles Police Department) - Департамент полиции Лос-Анджелеса 
+* marmot - сурок 
+* wiggly - извивающийся 
+* to stomp - топтать, растоптать 
+* to squash - раздавить 
+
+# 56:00 - 1:01:15 
+Vocabulary:
+
+* to lodge - сдавать на хранение, застревать (здесь lodged: оставленной, брошенной)
+* abutment - опора (моста) 
+* to chop - разрубить, разрезать, расколоть
+* joyride - угон (с целью покататься) 
+* the side-view - боковое зеркало
+* a vagrant - бродяга, бомж
+* a lead - зацепка, наводка, след
+* crime lab - криминалистическая лаборатория 
+* stain - пятно
+* to split hairs - придираться к мелочам 
+* tenet - принцип, постулат
+* ethos - этика, идеал 
+* wildlife - дикое животное
+* amphibious - земноводный 
+* rodent - грызун 
+* park ranger - рейнджер, лесник 
+* to buck up - встряхнуться, приободриться 
+* Caucasian (White Russian) - Белый русский (коктейль на основе водки и кофейного ликера, появился примерно в 1965 году)
+* Sarsaparilla (root beer) - сарсапарилла (газированное пиво, изготовленное из коры дерева) 
+* Sioux City - Су-сити (город в штате Айова, США; ~80 тысяч жителей)
+* to dig - нравиться 
+* cuss words - ругательства
